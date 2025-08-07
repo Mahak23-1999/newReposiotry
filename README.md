@@ -1,1 +1,2 @@
 # newReposiotry
+i amfromlocalrepository
